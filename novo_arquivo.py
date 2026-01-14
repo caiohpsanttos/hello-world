@@ -1,0 +1,1 @@
+print("meu novo script")
